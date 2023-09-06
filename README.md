@@ -1,4 +1,4 @@
-##### Hi 👋, I'm Chaehui
+# Hi 👋, I'm Chaehui
 
 <!--
 **je355/je355** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
