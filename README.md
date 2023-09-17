@@ -1,4 +1,4 @@
-# Hi 👋, I'm Chaehui
+# Hi 👋, I'm Chaehee
 ### FE Developer
 
 #### Platforms & Language
