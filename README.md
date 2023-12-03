@@ -1,4 +1,5 @@
 # Hi 👋, I'm Chaehee
+
 ### FE Developer
 📍 [Daegu Software High School](http://dgswhs.kr/) 8th
 
