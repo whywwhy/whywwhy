@@ -9,3 +9,4 @@
 <a href="mailto:chaeeehui@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chaeeehui@gmail.com"/></a>
 <a href="https://www.instagram.com/whywhywwwhy/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/whywhywwwhy"/></a>
 
+ 
